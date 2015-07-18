@@ -16,4 +16,7 @@ This repo was created to hold some of the experiments that I take on in CSS anim
 
 | Build | Date | Details |
 |---|---|---|
+| 2 | 7-18-2015 | Added text fade in effect. |
 | 1 | 7-18-2015 | First public build. |
+
+
